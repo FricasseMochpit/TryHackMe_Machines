@@ -1,3 +1,4 @@
 # TryHackMe_Machines
 
-Здесь будут мои решения машин на площадке THM.
+Мой аккаунт на THM - https://tryhackme.com/p/FricasseMochpit
+Здесь буду выкладывать решения машин на этой площадке.
