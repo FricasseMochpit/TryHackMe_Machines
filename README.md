@@ -1,5 +1,7 @@
-# TryHackMe Machines
+# 🔐 TryHackMe — Penetration Testing Writeups
 
-Мой аккаунт на THM - https://tryhackme.com/p/FricasseMochpit.
+Репозиторий содержит мои практические работы по лабораториям TryHackMe.
 
-Здесь буду выкладывать решения машин на этой площадке.
+> Все работы выполнялись исключительно в легальных учебных лабораториях TryHackMe.
+
+---
